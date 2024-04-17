@@ -1,0 +1,51 @@
+BOOKS LIST
+1,I.E. Irodov (Physics),A
+2,NCERT Maths (Class 12),A
+3,Patient Zero,F
+4,NCERT Maths (Class 11),A
+5,Chronicles of Narnia - V,A
+6,NCERT Physics (Class 11),A
+7,Red Sparrow,F
+8,David Morin (Physics),A
+9,Hobbit,F
+10,NCERT Biology (Class 11),A
+11,Angels and Demons,F
+12,A. Das Gupta (Maths),A
+13,Krotov (Physics),A
+14,NCERT Physics (Class 12),A
+15,Wuthering Heights,F
+16,The Man who knew Infinity,F
+17,The Theory of Everything,F
+18,NCERT Chemistry (Class 11),A
+19,NCERT Chemistry (Class 12),A
+20,Mein Kampf,F
+21,Chacha Chaudhary Aur Sabu - 78,F
+22,S.L. Loney (Maths),A
+23,Billoo - 142,F
+24,Algebra by Vikas Gupta,A
+25,History Without Hate,F
+26,NCERT Biology (Class 12),A
+27,Healing My Friends,F
+28,Pearson Chemistry (Class 12),A
+29,Midnights Children,F
+30,Hall and Knight (Maths),A
+31,Baker Of The Ocean,F
+32,Bhagvat Gita As It Is,F
+33,Cengage JEE (Maths-12th),A
+34,Gullivers Travels,F
+35,R.D. Sharma (Class 11),A
+36,H.C. Verma (Class 11),A
+37,Alice in Wonderland,F
+38,Cengage JEE (Chemistry-11th),A
+39,50 Shades of Grey,F
+40,IOC by V.K. Jaiswal,A
+41,The Da Vinci Code,F
+42,H.C. Verma (Class 12),A
+43,Give your Goosebumps - 78th,F
+44,Cengage NEET (Biology-12th),A
+45,The Diary of a Wimpy Kid,F
+46,War and Peace,F
+47,R.D. Sharma (Class 12),A
+48,Great Gatsby,F
+49,Jane Eyre,F
+50,Moby Dick,F
